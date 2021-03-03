@@ -18,3 +18,13 @@ C:\Users\q-2-0\source\repos\Flight1\Flight\obj\Debug\Flight.csproj.GenerateResou
 C:\Users\q-2-0\source\repos\Flight1\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
 C:\Users\q-2-0\source\repos\Flight1\Flight\obj\Debug\Flight.exe
 C:\Users\q-2-0\source\repos\Flight1\Flight\obj\Debug\Flight.pdb
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\bin\Debug\Flight.exe.config
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\bin\Debug\Flight.exe
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\bin\Debug\Flight.pdb
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.csprojAssemblyReference.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.Form1.resources
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.Properties.Resources.resources
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.exe
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withoutAtmoshpere-\Flight1\Flight\obj\Debug\Flight.pdb
